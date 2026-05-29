@@ -1,4 +1,4 @@
-```yml id="ud0h0x"
+
 name: Generate Snake
 
 on:
@@ -25,4 +25,4 @@ jobs:
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+

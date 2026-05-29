@@ -201,9 +201,9 @@ JavaScript • HTML • CSS • DOM
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabrinaFerreiraDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=B266FF&icon_color=B266FF&text_color=ffffff&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabrinaFerreiraDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=B266FF&icon_color=B266FF&text_color=FFFFFF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaFerreiraDev&layout=compact&theme=tokyonight&hide_border=true&title_color=B266FF&text_color=ffffff&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaFerreiraDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=B266FF&text_color=FFFFFF"/>
 
 </div>
 
@@ -213,11 +213,10 @@ JavaScript • HTML • CSS • DOM
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SabrinaFerreiraDev&theme=tokyonight&hide_border=true&ring=B266FF&fire=B266FF&currStreakLabel=B266FF"/>
+<img src="https://streak-stats.demolab.com?user=SabrinaFerreiraDev&theme=midnight-purple&hide_border=true&background=00000000&ring=B266FF&fire=B266FF&currStreakLabel=B266FF"/>
 
 </div>
 
----
 
 # 🐍 Contribution Graph
 

@@ -83,8 +83,9 @@ Atualmente focada em arquitetura de software, desenvolvimento backend, APIs REST
 <td width="50%">
 
 ## 🌐 Tradutor IA
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SabrinaFerreiraDev&repo=PROJETOS_PESSOAIS&theme=tokyonight&hide_border=true&title_color=B266FF&icon_color=B266FF&bg_color=0D1117"/>
+ <a href="https://tradutor-ia-eight.vercel.app/" target="_blank">
+  <img width="100%" src="./imgProjetos/tradutorIA.png" />
+</a>
 
 ### 📌 Sobre
 
@@ -112,7 +113,9 @@ JavaScript • HTML • CSS • REST API
 
 ## 🌤️ Weather Forecast
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SabrinaFerreiraDev&repo=weather-forecast&theme=tokyonight&hide_border=true&title_color=B266FF&icon_color=B266FF&bg_color=0D1117"/>
+<a href="https://weatherforecast-tawny.vercel.app/" target="_blank">
+  <img width="100%" src="./imgProjetos/previsaoIA.jpeg" />
+</a>
 
 ### 📌 Sobre
 

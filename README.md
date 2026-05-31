@@ -1,5 +1,3 @@
-# 👩‍💻 Sabrina Ferreira
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:12061C,50:1E0B2E,100:2B0F45&text=Sabrina%20Ferreira&fontColor=B266FF&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20JavaScript%20Ecosystem&descAlignY=60&animation=fadeIn"/>
 </p>

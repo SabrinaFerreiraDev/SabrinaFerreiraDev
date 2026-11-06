@@ -149,29 +149,32 @@ React • JavaScript • CSS • API REST
 <tr>
 <td width="50%">
 
-## 🎨 Gerador CSS
+  <img src="https://key-yellow-g9rmwptx.edgeone.dev/" alt="TaskFlow" width="100%"/>
 
-### 📌 Sobre
+  ## 📋 TaskFlow
 
-Ferramenta interativa para geração visual de estilos CSS em tempo real, focada em produtividade e aprendizado prático de estilização.
+  ### 📌 Sobre
 
-### ⚙️ Stack
+  Aplicação Full Stack de gerenciamento de tarefas, desenvolvida para organizar atividades, acompanhar prioridades e controlar o andamento das tarefas. Possui integração entre frontend, backend e banco de dados PostgreSQL.
 
-```txt
-JavaScript • HTML • CSS • DOM
-```
+  ### ⚙️ Stack
 
-### 🔗 Links
+  ```txt
+  React • Vite • TypeScript • Context API • Node.js • Express • PostgreSQL • Prisma • Zod
+  ```
 
-<a href="https://github.com/SabrinaFerreiraDev/PROJETOS_PESSOAIS/tree/main/Gerador-Css">
-  <img src="https://img.shields.io/badge/Repository-14091F?style=for-the-badge&logo=github&logoColor=B266FF"/>
-</a>
+  ### 🔗 Links
 
-<a href="https://geradorcss.vercel.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-14091F?style=for-the-badge&logo=vercel&logoColor=B266FF"/>
-</a>
+  <a href="https://github.com/SabrinaFerreiraDev/TaskFlow/tree/main">
+    <img src="https://img.shields.io/badge/Repository-14091F?style=for-the-badge&logo=github&logoColor=B266FF"/>
+  </a>
+
+  <a href="https://taskflow-lyart-nu.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-14091F?style=for-the-badge&logo=vercel&logoColor=B266FF"/>
+  </a>
 
 </td>
+
 
 <td width="50%">
 

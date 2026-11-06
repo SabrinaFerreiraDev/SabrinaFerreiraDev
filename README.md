@@ -149,7 +149,9 @@ React • JavaScript • CSS • API REST
 <tr>
 <td width="50%">
 
-  <img src="https://key-yellow-g9rmwptx.edgeone.dev/" alt="TaskFlow" width="100%"/>
+ <a href="https://taskflow-lyart-nu.vercel.app/" target="_blank">
+  <img width="100%" src="./imgProjetos/TaskFlow.png" />
+</a>
 
   ## 📋 TaskFlow
 
